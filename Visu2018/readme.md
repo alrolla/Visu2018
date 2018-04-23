@@ -1,6 +1,7 @@
 
 # VISUALIZACION DE LA INFORMACION 2018
-## Trabajo Practico 4 
-* Juan Ignacio Mazza 
+## Trabajo Práctico 4 
 * Alfredo Luis Rolla 
-##Visualizacion de Temperaturas
+* Juan Ignacio Mazza 
+
+## Visualización de Temperaturas
