@@ -6,4 +6,4 @@
 
 ## Visualización de Temperaturas
 
-![](imag/Captura de pantalla 2018-04-23 a la(s) 01.22.53.png)
+![](img/Paso_1.png?raw=true))
