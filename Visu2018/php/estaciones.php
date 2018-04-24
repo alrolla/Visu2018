@@ -9,9 +9,9 @@
         die;
     }
 
-		$nr=mysqli_num_rows($queryMETA);
+    $nr=mysqli_num_rows($queryMETA);
 
-		$s_metadata= array();
+    $s_metadata= array();
     for ($x = 0; $x < $nr; $x++) {
         $rs_a = mysqli_fetch_assoc($queryMETA);
     	  $s_metadata[]=array(
@@ -24,7 +24,7 @@
          	);
 	  }
 
-	echo json_encode($s_metadata);
+    echo json_encode($s_metadata);
 
-  mysqli_close($connection);
+   mysqli_close($connection);
 ?>
