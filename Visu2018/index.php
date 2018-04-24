@@ -278,7 +278,8 @@ Integrantes:
           info.style.position = "absolute";
           info.style.left = (rect.right-224)+'px';
           info.style.top = (rect.top+2)+'px';
-
+		
+          // Si hay un icono debajo del click
           if (feature) {
             feature_o=feature;
             feature.setStyle(iconStyle2);
@@ -293,7 +294,8 @@ Integrantes:
           }
 
         };
-
+	    
+        // Hacemos sensible el mapa al evento CLICK
         map.on('click', function(evt) {
           displayFeatureInfo(evt.pixel);
         });
