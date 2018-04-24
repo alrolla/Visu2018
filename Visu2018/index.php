@@ -157,12 +157,12 @@ Integrantes:
       // amarillo borde negro
     	iconStyle2 = new ol.style.Style({
     			               image: new ol.style.Circle({
-    			 							radius: 8,
-    			 							stroke: new ol.style.Stroke({
-    			   								color: '#000'
+    			 						radius: 8,
+    			 						stroke: new ol.style.Stroke({
+    			   						color: '#000'
     			 		                   	}),
-    			 							fill: new ol.style.Fill({
-    			   								color: '#FFD700' // attribute colour
+    			 						fill: new ol.style.Fill({
+    			   						color: '#FFD700' // attribute colour
     			                          	})
     		                              })
     		            });
@@ -173,23 +173,23 @@ Integrantes:
           // Definimos un icono para SMN y otro para INTA de distinto color
           iconStyleINTA = new ol.style.Style({
       			              image: new ol.style.Circle({
-                                  			 							radius: 5,
-                                  			 							stroke: new ol.style.Stroke({
-                                  			   								color: '#000'
+                                  			 		radius: 5,
+                                  			 		stroke: new ol.style.Stroke({
+                                  			   		color: '#000'
                                   			 		                   	}),
-                                  			 							fill: new ol.style.Fill({
-                                  			   								color: '#ff0000' // attribute colour
+                                  			 		fill: new ol.style.Fill({
+                                  			   		color: '#ff0000' // attribute colour
                                   			                          	})
                                                     })
                                             });
           iconStyleSMN = new ol.style.Style({
       			              image: new ol.style.Circle({
-                                  			 							radius: 5,
-                                  			 							stroke: new ol.style.Stroke({
-                                  			   								color: '#000'
+                                  			 		radius: 5,
+                                  			 		stroke: new ol.style.Stroke({
+                                  			   		color: '#000'
                                   			 		                   	}),
-                                  			 							fill: new ol.style.Fill({
-                                  			   								color: '#00ff00' // attribute colour
+                                  			 		fill: new ol.style.Fill({
+                                  			   		color: '#00ff00' // attribute colour
                                   			                          	})
                                                     })
                                             });
