@@ -27,6 +27,8 @@ html, body, #map {
 }
 
 /* De aca para abajo por ahora no lo usamos */
+
+/* Boton temperatura minima */
 .btn_min {
   -webkit-border-radius: 28;
   -moz-border-radius: 28;
@@ -45,6 +47,7 @@ html, body, #map {
   text-decoration: none;
 }
 
+/* Boton temperatura media */
 .btn_med {
   -webkit-border-radius: 28;
   -moz-border-radius: 28;
@@ -63,25 +66,7 @@ html, body, #map {
   text-decoration: none;
 }
 
-.btn_est {
-  -webkit-border-radius: 5;
-  -moz-border-radius: 5;
-  border-radius: 5px;
-  font-family: Arial;
-  color: #000000;
-  font-size: 10px;
-  background: #3cbefa;
-  padding: 4px 8px 4px 8px;
-  border: solid #ffffff 1px;
-  text-decoration: none;
-  width: 160px;
-}
-
-.btn_est:hover {
-  background: #3cbeaa;
-  text-decoration: none;
-}
-
+/* Boton temperatura maxima */
 .btn_max {
   -webkit-border-radius: 28;
   -moz-border-radius: 28;
@@ -100,6 +85,7 @@ html, body, #map {
   text-decoration: none;
 }
 
+/* Boton precipitacion */
 .btn_pre {
   -webkit-border-radius: 28;
   -moz-border-radius: 28;
