@@ -12,4 +12,4 @@ Visualizacion propuesta Parte 1.
 
 [link a la visualización implementada del Paso 1](http://ciclon.cima.fcen.uba.ar/Visu2018/)
 
-![](img/Implmentacion_Parte_1.png?raw=true)
+![](img/Implementacion_Parte_1.png?raw=true)
