@@ -6,9 +6,9 @@
 
 En esta etapa solo realizamos la primera parte correspondiente al mapa y la seleccion de las estaciones sobre las que luego mostraremos en D3 la visualizacion de la temperatura.
 
-El codigo principal esta en el archivo *index.php*
+El codigo principal esta en el archivo **index.php**
 
-Los datos estan en una base de datos MySQL, por eso usamos php para manejar la base de datos, disparando *ajax* , para generar archivos de tipo *json*.
+Los datos estan en una base de datos MySQL, por eso usamos php para manejar la base de datos, disparando **ajax** , para generar archivos de tipo **json**.
 
 Visualizacion propuesta Parte 1.
 
