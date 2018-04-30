@@ -1,5 +1,10 @@
 <?php
-
+//
+//Trabajo Práctico 4 - Visualización de la información
+//Integrantes:
+//    Alfredo Luis Rolla
+//    Juan Ignacio Mazza
+//
     include 'db.php';
 
     $Estacion=$_GET["nest"];
