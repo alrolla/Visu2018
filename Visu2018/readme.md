@@ -11,6 +11,10 @@ El objetivo del trabajo es llegar a tener una visualizacion en tiempo operaciona
 La **primera parte** corresponde al mapa (usamos **openlayers**) y la seleccion de las estaciones sobre las que luego **mostramos en D3 la visualización de la temperatura mínima, media y máxima.**
 Los datos estan en una base de datos MySQL, por eso usamos php para manejarnos con la base de datos, usando javascript y **ajax** , para recuperar objetos de tipo **json**, para ser usados por **D3**.
 
+<p align="center">
+  <img src="img/DB.png" width="400"/>
+</p>
+
 La **segunda parte** es la implementación mayormente en D3 de la visualización propuesta.
 
 Breve descripción de los codigos escritos ( html, D3, php, javascript, openlayers, j-query):
