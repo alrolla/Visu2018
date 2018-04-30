@@ -5,7 +5,8 @@
 * Juan Ignacio Mazza 
 
 ---
-El objetivo del trabajo es llegar a tener una visualizacion en tiempo operacional, para visualizar variables meteorologicas diarias como temperatura y precipitacion. En nuestro caso haremos solo la visualizacion de las temperaturas.
+El objetivo del trabajo es llegar a tener una visualizacion en tiempo operacional, para mostrar series temporales de variables meteorologicas diarias como temperatura y precipitacion. En nuestro caso haremos solo la visualizacion de las temperaturas.
+***
 
 La **primera parte** corresponde al mapa (usamos **openlayers**) y la seleccion de las estaciones sobre las que luego **mostramos en D3 la visualizacion de la temperatura mínima, media y máxima.**
 Los datos estan en una base de datos MySQL, por eso usamos php para manejarnos con la base de datos, usando javascript y **ajax** , para recuperar objetos de tipo **json**, para ser usados por **D3**.
