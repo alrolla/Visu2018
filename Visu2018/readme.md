@@ -4,11 +4,14 @@
 * Alfredo Luis Rolla 
 * Juan Ignacio Mazza 
 
-En esta etapa solo realizamos la primera parte correspondiente al mapa y la seleccion de las estaciones sobre las que luego **mostraremos en D3 la visualizacion de la temperatura.**
+La primera parte corresponde al mapa y la seleccion de las estaciones sobre las que luego **mostramos en D3 la visualizacion de la temperatura mínima, media y máxima.**
+Los datos estan en una base de datos MySQL, por eso usamos php para manejar la base de datos, usando **ajax** desde javascript , para recuperar objetos de tipo **json**, para ser usados por **D3**.
 
-El codigo principal esta en el archivo **index.php**
 
-Los datos estan en una base de datos MySQL, por eso usamos php para manejar la base de datos, disparando **ajax** , para generar archivos de tipo **json**.
+**index.php**   : Codigo principal de la aplicacion
+**st_temp.php** : Codigo escrito usando D3 para mostrar en modo dinamico las series temporales diarias de temperatura minima,media y maxima
+
+
 
 ## Visualizacion propuesta Parte 1.
 
