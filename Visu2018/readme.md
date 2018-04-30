@@ -10,7 +10,7 @@ El codigo principal esta en el archivo **index.php**
 
 Los datos estan en una base de datos MySQL, por eso usamos php para manejar la base de datos, disparando **ajax** , para generar archivos de tipo **json**.
 
-Visualizacion propuesta Parte 1.
+## Visualizacion propuesta Parte 1.
 
 ![](img/Paso_1.png?raw=true)
 
@@ -18,7 +18,7 @@ Visualizacion propuesta Parte 1.
 
 ![](img/Implementacion_Parte_1.png?raw=true)
 
-Visualizacion propuesta Parte 2.
+## Visualizacion propuesta Parte 2.
 
 ![](img/Paso_2.png?raw=true)
 
