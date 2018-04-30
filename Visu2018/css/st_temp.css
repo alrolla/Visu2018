@@ -1,0 +1,163 @@
+body {
+	  font: 10px sans-serif;
+	}
+
+	.axis path,
+	.axis line {
+	  fill: none;
+	  stroke: black;
+	  shape-rendering: crispEdges;
+	}
+
+	.x.axis path {
+	  stroke: lightgrey;
+	  stroke-width: 1;
+
+	}
+
+	.tick line{
+	  stroke: #aaaaaa;
+	  opacity: 0.8;
+	  stroke-dasharray: 2,2;
+	}
+
+	.area.above {
+	  fill: rgb(255, 0, 0);
+	}
+
+	.area.below {
+	  fill: rgb(0, 0, 255);
+	}
+/* Linea climatologica Grafico grande (NEGRA)*/
+	.linea {
+	  fill: none;
+	  stroke: #000000;
+	  stroke-width: 2px;
+	}
+/* Linea climatologica Grafico miniatura (VERDE)*/
+	.lineaMini {
+	  fill: none;
+	  stroke: #008800;
+	  stroke-width: 1px;
+	}
+
+	.brush .extent {
+	  stroke: #ff0000;
+	  fill-opacity: .125;
+	  shape-rendering: crispEdges;
+	}
+
+	.focus circle {
+	  fill: none;
+	  stroke: steelblue;
+	}
+
+	.overlay {
+	  fill: none;
+	  pointer-events: all;
+	}
+
+#cuadro{
+ color:#000 ;
+ position: fixed;
+ top: 25px;
+ left: 574px;
+ width: 90px;
+ height: 60px;
+ border:  solid #000;
+ border-width: 1px 1px 2px 1px;
+ visibility: hidden;
+}
+
+#cuadro2{
+	padding:3px;
+ color:#000 ;
+ position: fixed;
+ top: 275px;
+ left: 574px;
+ width: 84px;
+ height: 40px;
+ border:  solid #000;
+ border-width: 1px 1px 1px 1px;
+}
+
+.dotOver {
+    height: 10px;
+    width: 10px;
+    background-color: #ff0000;
+    border-radius: 50%;
+    display: inline-block;
+}
+.dotNormal {
+    height: 10px;
+    width: 10px;
+    background-color: #000000;
+    border-radius: 50%;
+    display: inline-block;
+}
+.dotBelow {
+    height: 10px;
+    width: 10px;
+    background-color: #0000ff;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+#Titulo{
+position:relative;
+top:0px;left:10px;height:15px;
+text-align: center;color:#000000;font-family:arial;font-size:14px;
+}
+
+#fechal{
+ position: fixed;
+ left: 576px;
+ top:25px;
+ font-size:10px
+}
+
+#climal{
+  position: fixed;
+  left: 576px;
+  top:40px;
+  font-size:10px
+}
+
+#actuall{
+  position: fixed;
+  left: 576px;
+  top:55px;
+  font-size:10px
+}
+#anomalial{
+  position: fixed;
+  left: 576px;
+  top:70px;
+  font-size:10px
+}
+
+#fecha{
+  position: fixed;
+  left: 610px;
+  top:25px;
+  font-size:10px
+}
+
+#clima{
+  position: fixed;
+  left: 610px;
+  top:40px;
+  font-size:10px
+}
+#actual{
+  position: fixed;
+  left: 610px;
+  top:55px;
+  font-size:10px
+}
+#anomalia{
+  position: fixed;
+  left: 610px;
+  top:70px;
+  font-size:10px
+}
