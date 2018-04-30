@@ -1,5 +1,13 @@
 <!DOCTYPE html>
 <?php
+//
+//Trabajo Práctico 4 - Visualización de la información
+//Integrantes:
+//    Alfredo Luis Rolla
+//    Juan Ignacio Mazza
+//
+
+
 // Recupero los parametros de la pagina y leo la metadata de LA ESTACION !!!
    include 'db.php';
 
