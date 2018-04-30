@@ -17,7 +17,7 @@ Usando javascript y **ajax** , para generar objetos de tipo **json**, para luego
   <img src="img/DB.png" width="400"/>
 </p>
 
-## Conjunto de datos de prueba: En formato de bavck de mysql:
+**Conjunto de datos de prueba:**
 https://www.dropbox.com/sh/zszg5l85gl076wd/AACTUNVlznHGELYHEAP48JQoa?dl=0
 
 
