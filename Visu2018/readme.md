@@ -29,18 +29,27 @@ Breve descripción de los codigos escritos ( html, D3, php, javascript, openlaye
 
 ## Visualizacion propuesta Parte 1.
 <p align="center">
-  <img src="img/Paso_1.png" width="500"/>
+  <img src="img/Paso_1.png" width="600"/>
 </p>
 
 
 [link a la visualización implementada del Paso 1](http://ciclon.cima.fcen.uba.ar/Visu2018/)
 
-![](img/Implementacion_Parte_1.png?raw=true)
+<p align="center">
+  <img src="img/Implementacion_Parte_1.png" width="600"/>
+</p>
+
+
 
 ## Visualizacion propuesta Parte 2.
+<p align="center">
+  <img src="img/Paso_2.png" width="600"/>
+</p>
 
-![](img/Paso_2.png?raw=true)
 
 [link a la visualización implementada del Paso 2](http://ciclon.cima.fcen.uba.ar/Visu2018/)
+<p align="center">
+  <img src="img/Implementacion_Parte_2.png" width="600"/>
+</p>
 
-![](img/Implementacion_Parte_2.png?raw=true)
+
