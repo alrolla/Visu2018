@@ -1,4 +1,10 @@
 <?php
+//
+//Trabajo Práctico 4 - Visualización de la información
+//Integrantes:
+//    Alfredo Luis Rolla
+//    Juan Ignacio Mazza
+//
     // Conexion a la DB
     include 'db.php';
 
